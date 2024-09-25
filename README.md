@@ -7,7 +7,7 @@ https://public.tableau.com/app/profile/monette.wagner7628/viz/ZomatoUserAnalysis
 # Project Overview
 This project investigates the potential for Zomato, a leading restaurant aggregator and food delivery service, to enhance its marketing strategy. Additionally, Zomato has been experiencing a rapid decrease in user engagement. 
 
-My analysis reveals that Zomato is predominatly used consistently by a specific demographic: young, single individuals who hold a higher education degree, particularly those in smaller family units (1-3 members) with lower income levels.  I aim to analyze user behavior and preferences to optimize marketing efforts to drive consistent engagement and long-term sales. This strategic focus is anticpated to enhance customer retention rates and minimize churn, ultimately leading to a more sustainable business model.
+My analysis reveals that Zomato is predominantly used consistently by a specific demographic: young, single individuals who hold a higher education degree, particularly those in smaller family units (1-3 members) with lower income levels.  I aim to analyze user behavior and preferences to optimize marketing efforts to drive consistent engagement and long-term sales. This strategic focus is anticpated to enhance customer retention rates and minimize churn, ultimately leading to a more sustainable business model.
 
 The 2 dashboards to highlight are: 1) Landscape of Users, which consists of several visualizations describing users who have an account with Zomato, and 2) Purchasing Behavior which consists of several charts, including retention rate and churn rate. 
 
